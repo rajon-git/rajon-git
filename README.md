@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajon-git&label=Profile%20views&color=0e75b6&style=flat" alt="rajon-git" /> </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **TypeScript**<br><br>- 💬 Ask me about **MERN**<br><br>- 📫 How to reach me **rajon.zhsust15@gmail.com**<br><br>- ⚡ Fun fact **I am friendly**
+- 🌱 I’m currently learning **Datastructire and Algorithms**<br><br>- 💬 Ask me about **MERN**<br><br>- 📫 How to reach me **rajon.zhsust15@gmail.com**<br><br>- ⚡ Fun fact **I am friendly**
 
 
 ## 🌐 Socials:
