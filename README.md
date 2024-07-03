@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajon-git&label=Profile%20views&color=0e75b6&style=flat" alt="rajon-git" /> </p>
 
-# 💫 I'm a Learner, Developer, Problem Solver!!!
-- ⚡ 2024 -Become a Django Developer, solve at least 200 codeforces problems, solve at least 100 problems in leetcode 📫 How to reach me **https://portfolio-rajon.onrender.com/**<br><br>-
+# I'm a Learner, Developer, Problem Solver!!!
+- 2024 -Become a Django Developer, solve at least 200 codeforces problems, solve at least 100 problems in leetcode<br><br>-  How to reach me **https://portfolio-rajon.onrender.com/**<br><br>-
 
 
 ## 🌐 Socials:
