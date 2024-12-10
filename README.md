@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD. Rajon Ahamad</h1>
+<h1 align="center">I'm MD. Rajon Ahamad</h1>
 <h3 align="center">Software Engineer at TEX Fasteners</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajon-git&label=Profile%20views&color=0e75b6&style=flat" alt="rajon-git" /> </p>
