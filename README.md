@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajon-git&label=Profile%20views&color=0e75b6&style=flat" alt="rajon-git" /> </p>
 
 # I'm a Learner, Developer, Problem Solver!!!
-- 2025 - Solve at least 600 problems in leetcode<br><br> -Revise DataStructure & Algorithm <br><br>How to reach me **https://portfolio-rajon.onrender.com/**<br><br>
+- 2025 - Solve at least 600 problems in leetcode<br><br>   - Revise DataStructure & Algorithm <br><br>   - Make professional projects <br><br>How to reach me **https://portfolio-rajon.onrender.com/**<br><br>
 
 
 ## 🌐 Socials:
