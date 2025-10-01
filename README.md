@@ -11,20 +11,21 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zhsust.rajon) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge)
-![Odoo](https://img.shields.io/badge/odoo-7A5BEF.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Odoo](https://img.shields.io/badge/odoo-7A5BEF.svg?style=for-the-badge&logo=odoo&logoColor=white)
 ![OWL.js](https://img.shields.io/badge/owljs-0099FF.svg?style=for-the-badge)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/django%20rest-0A4E8C.svg?style=for-the-badge)
-![React JS](https://img.shields.io/badge/react%20js-%2320232a.svg?style=for-the-badge)
+![React JS](https://img.shields.io/badge/react%20js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005A9C.svg?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-EB7A14.svg?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajon-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
